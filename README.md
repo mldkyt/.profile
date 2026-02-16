@@ -1,10 +1,28 @@
-## Hello, I'm Lunya.
+## ~lunya
 
-I enjoy making a variety of content. I make a variety of projects including Akabot, a Discord bot of mine, Astolfo Forge Mod, which adds a bunch of femboys to Minecraft, or Astolfo is coming for you, which is a windows program where Astolfo comes to you to call you a great human being. Sometimes I also make YouTube videos with my projects, mods, successes, tutorials and other content.
+hi I'm lunya :3 (she/her)
 
-I have a [website with my projects](https://lunya.pet/). Explore them by clicking `Projects` at the top and scrolling through the page. Explore my social accounts by clicking `Socials` on the top of the page. Explore slightly different pieces of work by clicking `Miscellaneous` on the top of the page.
+- old enough to have used dialup to connect to the wired
+- arch linux shill turned to [nixos shill](https://git.lunya.pet/lunya/nix)
+- user of all things decentralized (fedi and matrix my beloved)
+- probably aro, probably polyamorous, likely pansexual, always transfem
+- powered by coffee
+- unprofessional selfhoster (there's probably [at least one dead service](https://status.lunya.pet))
+- hater of AI, actively poisoning scrapers with garbage data
+- professional shitposter, [fedi microcelebrity](https://sk.lunya.pet/@lunya) with [multiple main accounts](https://social.lunya.pet/users/catgirl)
+- part-time catgirl, full time meower (meow)
+- more lesbian than a lesbian could ever be, so lesbian girls wanna make out with me all the time ([yuri is life](https://immich.lunya.pet/share/2kJH_34XZBhdRyURxWg_kro-r6A0GXrnCt3ufj56AbMm_Y-tJccOGdcbbItyz1Mpvtc))
+- actively testing my code in prod (this always went well)
+- [100+ repositories](https://git.lunya.pet/lunya?tab=repositories) yet only about quarter of them are maintained (most of them aren't public)
+- most projects started at ungodly hours because I could (and because cats are only really awake at night time)
+- longest time spent on most projects is coming up with a name (not a creative girl)
+- not a gamer (almost)
+- im not great at communication so please use pings and ping me again because i forget to respond a lot of the times
+- anonymous as fuck because I almost never share anything that isn't public
 
-Project list (Last updated 2024年08月12日):
+let's all love lunya.
+
+Project list (Last updated 2024-08-12):
 
 - [Akabot](https://lunya.pet/project/akabot) - A feature packed Discord bot.
 - [Astolfo is coming for you](https://git.lunya.pet/Lunya/AstolfoIsComingForYou/releases) - Astolfo comes to your house with either compliments or to shut down your PC.
