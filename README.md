@@ -1,9 +1,11 @@
 ## ~lunya
 
-hi I'm lunya :3 (she/her)
+hi I'm lain :3 (she/her)
+
+present day... present time...
 
 - old enough to have used dialup to connect to the wired
-- arch linux shill turned to [nixos shill](https://git.lunya.pet/lunya/nix)
+- arch linux shill turned to [nixos shill](https://git.the-wired.club/lain/nix)
 - user of all things decentralized (fedi and matrix my beloved)
 - probably aro, probably polyamorous, likely pansexual, always transfem
 - powered by coffee
@@ -20,7 +22,7 @@ hi I'm lunya :3 (she/her)
 - im not great at communication so please use pings and ping me again because i forget to respond a lot of the times
 - anonymous as fuck because I almost never share anything that isn't public
 
-let's all love lunya.
+let's all love lain. 
 
 Project list (Last updated 2024-08-12):
 
