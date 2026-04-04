@@ -1,5 +1,7 @@
 ## ~Lunya
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4GCSPN)
+
 hi I'm Lunya :3 (she/her)
 
 🏳️‍⚧️
