@@ -6,7 +6,7 @@ hi I'm Lunya :3 (she/her)
 
 🏳️‍⚧️
 
-I'm Lunya, a catgirl who [codes a lot](https://git.the-wired.club/lain) and [posts videos on YT](https://youtube.com/@lain-owo). I meow a lot, both online and IRL :3
+I'm Lunya, a catgirl who [codes a lot](https://git.lunya.pet) and [posts videos on YT](https://youtube.com/@lunyauwu). I meow a lot, both online and IRL :3
 
 Here is where all my coding ~~crimes~~ projects are stored. Feel free to explore my repos :3  [also check out the dedicated page for my projects](https://lunya.pet/projects).
 
@@ -21,4 +21,3 @@ Project list (Last updated 2024-08-12):
 - [AstolfOS](https://git.lunya.pet/Lunya/AstolfOS/wiki/) - A script that converts your Linux distro to AstolfOS.
 - [CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - A catgirl nonsense generator.
 - [uwurandom-rs](https://git.lunya.pet/Lunya/uwurandom-rs/) - UwUrandom rewritten in Rust.
-
