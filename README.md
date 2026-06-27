@@ -12,7 +12,7 @@ If you like my work you can donate here :3 https://ko-fi.com/c4tgirl
 
 Project list (Last updated 2026-06-10):
 
-- [Nekona](https://mldchan.dev/project/nekona) - A feature packed Discord bot.
+- [Akabot](https://mldchan.dev/project/akabot) - A feature packed Discord bot.
 - [meowbot](https://fedi.mldchan.dev/users/meowbot), [wafbot](https://fedi.mldchan.dev/users/wafbot), [Collaborative Markov Bot](https://fedi.mldchan.dev/users/collabmarkov) and [mastomarkov](https://fedi.mldchan.dev/users/autoluna) are my fediverse bots.
 - [Astolfo is coming for you](https://git.mldchan.dev/luna/AstolfoIsComingForYou/releases) - Astolfo comes to your house with either compliments or to shut down your PC.
 - [Astolfo Mod](https://git.mldchan.dev/luna/AstolfoForge/releases) - An Astolfo themed forge mod that adds many femboys and many ways to play with them :3
