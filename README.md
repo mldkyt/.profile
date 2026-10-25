@@ -37,3 +37,5 @@ if my code ever made your night a little less lonely, you can buy me a coffee ðŸ
 [![Donate](https://img.shields.io/badge/offer_a_coffee-0d0d0d?style=for-the-badge&logo=kofi&logoColor=341539)](https://donate.mldkyt.com)
 
 also you can follow me on the links above and github too, and star my repos~ ðŸ–¤
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mldkyt)](https://github.com/stats-organization/github-stats-extended)
